@@ -17,7 +17,7 @@ $i=0;
 
 ?>
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fr">
 
 <head>
